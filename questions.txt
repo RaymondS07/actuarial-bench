@@ -1,0 +1,7 @@
+Level 1 - PV questions:
+
+ACTL Enterprises is considering a project that requires an investment of 3 immediately, 2 one year later, and 1 
+two years later (with no salvage value). The project would run over 13 years (starting immediately), with expenses
+of 1 for the first year, occuring in average in the middle of the year, and increasing by 5% each year. Revenues would start
+at 1.2 at the end of the first year, increase by an amount of 0.4 at the end of the next nine years, and then decrease by an amount
+of 1 at the end of the next 3 years. Unless stated otherwise, use a valuation rate of 12% p.a.
