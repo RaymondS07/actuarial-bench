@@ -1,7 +1,9 @@
 Level 1 - PV questions:
+// Simple pv annuity
 1) An annuity pays 750 at the end of each year for 12 years. The annual effective interest rate is 5.5%. 
 Calculate the present value of the annuity at the time of purchase.
 
+// Increasing annuity component, mid year discounting ie using 0.5 increments, general npv = revenue - expenses
 2) ACTL Enterprises is considering a project that requires an investment of 3 immediately, 2 one year later, and 1
 two years later (with no salvage value). The project would run over 13 years (starting immediately), with expenses
 of 1 for the first year, occuring in average in the middle of the year, and increasing by 5% each year. Revenues would start
@@ -9,15 +11,18 @@ at 1.2 at the end of the first year, increase by an amount of 0.4 at the end of 
 of 1 at the end of the next 3 years. Unless stated otherwise, use a valuation rate of 12% p.a.
 Calculate Net Present value
 
+// Geometric increasing annuity due
 3) Nelly makes a series of payments at the beginning of each year for 30 years. The first payment is 50, each of the next fourteen payments increases by 7%
 from the previous payment. After the fifteenth payment, each payment decreases by 7% from the previous payment. 
 Calculate the present value of these payments at the time the first payment is made using an annual effective rate of 9%.
 
+// Term dependent discount factor ie product of individual discount factors
 4) An investor purchases a 15-year income stream with payments at the end of each year. The first payment is 8.
 Payments increase by 3% per year through the eighth payment. From the ninth payment onward, payments remain level
 at the eighth payment's amount. The valuation basis is 6% p.a. effective for the first 5 years, 8% p.a. effective for
 the next 5 years, and 7% p.a. effective thereafter. Calculate the present value at time 0.
 
+// Present value annuity due, pv of a perpetuity
 5) A charity is endowing a scholarship. The scholarship pays 4 at time 5, and thereafter a payment at the start
 of every year forever, each 2.5% larger than the previous one. Administration costs of 0.5 are payable at the end
 of each of the first 20 years. The charity funds this with 10 equal annual contributions of C at times 0 through 9.

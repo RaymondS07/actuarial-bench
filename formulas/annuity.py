@@ -15,5 +15,12 @@ def increasingAnnuity(rate, term, payment):
     "Increasing annuity formula where payments increase constantly (non-level)"
     return payment * ((annuityDue(rate, term, 1) - term*discountFactor(rate, term)) / rate)
 
+def geometricRate(rateIncrease, effectiveRate):
+    "Adjusted rate for geometric growth"
+    return (1+effectiveRate)/(1+rateIncrease) - 1
+
+
+
 if __name__ == "__main__":
     print(present_value_annuity(0.06, 10, 500))
+
