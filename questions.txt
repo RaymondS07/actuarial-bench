@@ -29,7 +29,7 @@ of each of the first 20 years. The charity funds this with 10 equal annual contr
 The valuation basis is 6% p.a. effective for the first 5 years and 5% p.a. effective thereafter. Calculate C.
 
 
-Level 2 - Reserving questions
+Level 2 - Reserving questions (formulas will be seperate)
 1) The table shows cumulative paid claims ($000s) by accident year and development year.
 Using volume-weighted average development factors and no tail factor, calculate the outstanding claims
 reserve for each accident year and in total.
